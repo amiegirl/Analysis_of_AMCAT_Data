@@ -24,8 +24,10 @@ The focus of this study is on certain groups of graduates in computer science an
 * I identified relationships between numerical columns using a heatmap.
 * I identified the relationship  between degree attained and salary.
 * I identified the relationship between each degree attained with gender and salary.
+* I Identified the relationship between college level and salary
+* I Identified the relationship between gender and salary.
 * I plotted a count of each specialization based on gender.
-* I visualized the salary distribution of job designations - Programming Analyst, Software Engineer, Hardware Engineer and Associate Engineer
+* Investigated the compensation plans of certain job specialization. I visualized the salary distribution of job designations - Programming Analyst, Software Engineer, Hardware Engineer and Associate Engineer
 ## Insights Findings
 ![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/3b6727a0-75c8-4d26-b6d2-ec7e6d075d78)<br>
 A normal distribution can be seen in the majority of the numerical variables. Few have a right skew.<br>
