@@ -28,55 +28,55 @@ The focus of this study is on certain groups of graduates in computer science an
 * I Identified the relationship between gender and salary.
 * I plotted a count of each specialization based on gender.
 * Investigated the compensation plans of certain job specialization. I visualized the salary distribution of job designations - Programming Analyst, Software Engineer, Hardware Engineer and Associate Engineer
-## Insights Findings
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/3b6727a0-75c8-4d26-b6d2-ec7e6d075d78)<br>
+## Insights Findings<br>
 A normal distribution can be seen in the majority of the numerical variables. Few have a right skew.<br>
 Employee salaries often range from 100,000 to 400,000.<br>
 Ages 21 to 24 make up the majority.<br>
 The majority of employees' college GPAs range from 62 to 80.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/3b6727a0-75c8-4d26-b6d2-ec7e6d075d78)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/c649abaf-36ec-402b-8b46-bfa30b9ad409)<br>
 The majority of workers hold a bachelor's degree. Few people possess an MCA, an M.Tech, or an M.E.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/c649abaf-36ec-402b-8b46-bfa30b9ad409)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/5b189685-b310-47ac-b068-867833335a5e)<br>
 The most popular specialization among workers is electronics and communication engineering, which is followed by computer science and engineering and information technology.
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/5b189685-b310-47ac-b068-867833335a5e)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/a093d2a2-2771-4c4a-99ce-a69dc1c794d8)<br>
 The most prevalent designation among workers is software engineering.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/a093d2a2-2771-4c4a-99ce-a69dc1c794d8)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/9282c9b5-27d9-45f7-a753-fd8619292c3f)<br>
 The majority of the workforce is based in Bangalore.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/9282c9b5-27d9-45f7-a753-fd8619292c3f)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/603ee3bc-956c-4cc1-a369-98f2e8c1236b)<br>
 There heatmap shows no relationship between the salary and the candidate's scores, age, or other numerical factors.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/603ee3bc-956c-4cc1-a369-98f2e8c1236b)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/35f772f3-3304-4f10-8d32-b53b8d19919b)<br>
 The average salary of employees holding a master's degree in Technology or Engineering is higher.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/35f772f3-3304-4f10-8d32-b53b8d19919b)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/b86f7ced-4308-49d9-bf21-a96bf2c6d761)<br>
 Workers with tier 1 college degrees typically earn higher money.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/b86f7ced-4308-49d9-bf21-a96bf2c6d761)<br>
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/bf54f1f9-ee05-4443-b2b3-d6559c3331b2)<br>
 On average, females earn less money than males.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/bf54f1f9-ee05-4443-b2b3-d6559c3331b2)<br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/fad2377b-ef51-44de-accf-f68962ec5c4d)<br>
 In comparison to males, females who hold a master's degree earn more money.<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/fad2377b-ef51-44de-accf-f68962ec5c4d)<br>
 <br>
 <br>
+In every specialization but biotechnology, where there are more females, males predominate, whereas in information and communication technology, only females are found.<br>
 ![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/90afc3f2-17a3-40ed-9a9b-a91e9b0aa2af)<br>
-In every specialization but biotechnology, where there are more females, males predominate, whereas in information and communication technology, only females are found.
 <br>
 <br>
-![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/74601076-0f6e-483c-a6bb-6a0ef765883c)<br>
 Programmer analysts, software engineers, hardware engineers, and associate engineers earn up to 2.5 and 3 lakhs, with software engineers being the highest earners<br>
+![image](https://github.com/amiegirl/Analysis_of_AMCAT_Data/assets/81017006/74601076-0f6e-483c-a6bb-6a0ef765883c)<br>
 <br>
 <br>
 ## Conclusion
